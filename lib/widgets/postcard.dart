@@ -46,12 +46,12 @@ class PostCArad extends StatelessWidget {
               buttonColor: Color.fromARGB(255, 104, 103, 103), 
               buttonAction: (){}), 
             buttonTwo: headerbutton(
-              buttontext: 'like', 
+              buttontext: 'comment', 
               buttonIcon: Icons.message_outlined, 
               buttonColor:Color.fromARGB(255, 104, 103, 103), 
               buttonAction: (){}),
                buttonThree: headerbutton(
-              buttontext: 'Comment', 
+              buttontext: 'share', 
               buttonIcon: Icons.share_outlined, 
               buttonColor: Color.fromARGB(255, 104, 103, 103), 
               buttonAction: (){}),
